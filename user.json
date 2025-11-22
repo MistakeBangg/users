@@ -85,6 +85,11 @@
     "expiresAt": "2025-12-10T05:10:14.990Z"
   },
   {
+    "name": "RELLO",
+    "telegramId": "7163009579",
+    "expiresAt": "2045-12-10T05:10:14.990Z"
+  },
+  {
     "name": "ZZ",
     "telegramId": "123",
     "expiresAt": "2025-10-22T12:56:42.418Z"
